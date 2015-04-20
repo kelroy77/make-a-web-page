@@ -1,0 +1,15 @@
+body {
+    padding: 20px 10px;
+    font-family: Helvetica;
+    max-width: 2000px;
+  margin: 0 auto; text-align: center}
+ h1{background-color: Grey;color:blue; text-align: center;}
+h2{text-align: center}
+ .green-text-color{color:green} 
+.purple-text-color {color:purple}
+.blue-text-color {color:blue}
+.black-text-color {color:black}
+  
+  
+  
+
